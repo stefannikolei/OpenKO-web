@@ -421,3 +421,5 @@ FodyWeavers.xsd
 OpenKO_WEB/bin/
 OpenKO_WEB/obj/
 packages/
+OpenKO.Web/.idea
+.DS_Store
